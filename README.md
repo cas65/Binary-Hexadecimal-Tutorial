@@ -22,7 +22,7 @@ This tutorial explains the concepts of binary and hexadecimal number systems and
 This tutorial is divided into the following sections:  
 
 1. [Introduction to Number Systems](#introduction-to-number-systems)  
-2. [Binary Numbers](binary.md)  
+2. [Binary Numbers](Binary)  
 3. [Hexadecimal Numbers](hexadecimal.md)  
 4. [Conversions Between Binary and Hexadecimal](conversions.md)  
 5. [Practice Exercises](practice.md)  
