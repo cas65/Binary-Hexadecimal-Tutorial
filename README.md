@@ -21,7 +21,7 @@ This tutorial explains the concepts of binary and hexadecimal number systems and
 ## Overview of the Tutorial  
 This tutorial is divided into the following sections:  
 
-1. [Introduction to Number Systems](#introduction-to-number-systems)  
+1. [Introduction to Number Systems](https://github.com/cas65/Introduction-of-number-systems.git)  
 2. [Binary Numbers](https://github.com/cas65/Binary.git)  
 3. [Hexadecimal Numbers](hexadecimal.md)  
 4. [Conversions Between Binary and Hexadecimal](conversions.md)  
