@@ -24,7 +24,7 @@ This tutorial is divided into the following sections:
 1. [Introduction to Number Systems](https://github.com/cas65/Introduction-of-number-systems.git)  
 2. [Binary Numbers](https://github.com/cas65/Binary.git)  
 3. [Hexadecimal Numbers](https://github.com/cas65/Hexadecimal-Numbers-.git)  
-4. [Conversions Between Binary and Hexadecimal](conversions.md)  
+4. [Conversions Between Binary and Hexadecimal](https://github.com/cas65/Conversion-between-Binary-and-Hexadecimal-.git)  
 5. [Practice Exercises](practice.md)  
 
 ---
