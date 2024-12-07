@@ -25,9 +25,5 @@ This tutorial is divided into the following sections:
 2. [Binary Numbers](https://github.com/cas65/Binary.git)  
 3. [Hexadecimal Numbers](https://github.com/cas65/Hexadecimal-Numbers-.git)  
 4. [Conversions Between Binary and Hexadecimal](https://github.com/cas65/Conversion-between-Binary-and-Hexadecimal-.git)  
-5. [Practice Exercises](practice.md)  
+5. [Practice Exercises](https://github.com/cas65/Practice-exercises-.git)  
 
----
-
-## Navigation  
-[Start Tutorial: Binary Numbers](binary.md)
