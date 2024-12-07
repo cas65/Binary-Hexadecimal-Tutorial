@@ -5,16 +5,16 @@
 ---
 
 ## Purpose  
-This tutorial explains the concepts of binary and hexadecimal number systems and how to convert between them. It is designed to provide a fundamental understanding of how data is represented and manipulated in computer systems.  
+This tutorial walks you through the basics of binary and hexadecimal number systems and shows you how to convert between them.To help give you a clear picture of how computers use these number systems to store and process data."  
 
 ---
 
 ## Target Audience  
 - **Skill Level**: Beginners to intermediate  
 - **Prerequisites**:  
-  - Basic arithmetic knowledge  
-  - Interest in learning how computers use number systems  
-  - No prior programming experience required  
+  - Basic math skills
+  - Curious about how computers use number systems
+  - No need for previous programming experience
 
 ---
 
